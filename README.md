@@ -7,3 +7,6 @@ Fow low sercurity, run the file <b>script.html</b> on any web browser. Click on 
   http://localhost/127.0.0.1/script.html
   as the URL. 
   Now click on the <b> Change Password</b> button and your password will be changed.
+  
+ <br><br>
+ <b>Note:</b> Inside script.html, change the action address to your dvwa csrf address and value of new password and confirm password according to your wish.
